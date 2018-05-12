@@ -1,4 +1,8 @@
 _repo: Les-derniers-paysans-Tome-1_49312
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49312-h/images/cover.jpg
 creator:
   author:
     agent_name: Souvestre, Émile
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '1351'
     url: http://www.gutenberg.org/2009/agents/1351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49312#Les-derniers-paysans-Tome-1
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2015-06-28'
 gutenberg_type: Text
